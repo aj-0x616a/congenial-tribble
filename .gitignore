@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# VS code
+.vscode/
+
+# Commit 1
+# Commit 2
+# Commit 3
